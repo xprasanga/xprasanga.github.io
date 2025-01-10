@@ -14,4 +14,4 @@ My research interest lies in the following areas:
 I hope to learn data analysis techniques and skills applicable to biological fields.
 
 ## Interesting thing about me
-I love watching Soccer and Criket. My favorite club is FC Bayern Munich, a club from Germany. My favorite players from FC Bayern are Thomas Muller, Manual Neuer, and Jamal Musiala.
+I love watching Soccer and Cricket. My favorite club is FC Bayern Munich, a club from Germany. My favorite players from FC Bayern are Thomas Muller, Manual Neuer, and Jamal Musiala.
